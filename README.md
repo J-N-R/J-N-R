@@ -1,17 +1,19 @@
 // INTRODUCTION // This page is still under development! I am working on migrating my existing code over to here.
 
-Hello!
+### [Come visit all my projects at work here!](http://eve.kean.edu/~rivejona "Main Page") <br/><br/>
+
+Hello! <br/><br/>
 
 
-My Name is Jonathan Rivera, and I'm a student majoring in Cyber Security at Kean University.
+#### My Name is Jonathan Rivera, and I'm a student majoring in Cyber Security at Kean University.
 
-This GitHub's purpose is to host all of my current and previous project files and to help me learn and work more closely with GitHub, and others' codes.
-
-
-My interests right now include building up my skillset and finding an Internship that I will fit in well with.
+This GitHub's purpose is to host all of my current and previous project files and to help me learn and work more closely with GitHub, and others' codes. <br/><br/>
 
 
-As of Spring 2021, my most recent projects include:
+My interests right now include building up my skillset and finding an Internship that I will fit in well with. <br/><br/><br/>
+
+
+## Recent Projects:
 
   - Designing and implementing a simple, but powerful interval calculator app in Java that helped my team facilitate research nearly 50% more efficiently in 2020.
   
@@ -24,10 +26,10 @@ As of Spring 2021, my most recent projects include:
     a program that facilitated the openweather API and a GEO-IP API to relay to a user information about their current location, such as time-zone, temperature, and more.
     
 
-My current skills include programming in Java, C++, Python, HTML, PHP and SQL (MariaDB), and as I am still learning and trying to strengthen my skills, I am looking to
+<br/><br/>My current skills include programming in Java, C++, Python, HTML, PHP and SQL (MariaDB), and as I am still learning and trying to strengthen my skills, I am looking to
 collaborate on any opportunity or project that might make use these skills so I may practice and become a better programmer.
  
  
-If you have any questions or would like to contact me,
+<br/><br/>If you have any questions or would like to contact me,
 
 You can reach me at my email: rivejona@kean.edu, and I'll get back to you as soon as possible.
