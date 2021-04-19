@@ -2,15 +2,12 @@
 
 ### [Come visit all my projects at work here!](http://eve.kean.edu/~rivejona "Main Page") <br/><br/>
 
-Hello! <br/><br/>
+## Hello!
 
 
 #### My Name is Jonathan Rivera, and I'm a student majoring in Cyber Security at Kean University.
 
 This GitHub's purpose is to host all of my current and previous project files and to help me learn and work more closely with GitHub, and others' codes. <br/><br/>
-
-
-My interests right now include building up my skillset and finding an Internship that I will fit in well with. <br/><br/><br/>
 
 
 ## Recent Projects:
