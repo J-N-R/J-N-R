@@ -1,6 +1,6 @@
 Note : This page is still under development! I am working on migrating my existing code over to here.
 
-### [Come visit all my projects at work here!](http://eve.kean.edu/~rivejona "Main Page") <br/><br/>
+### [Come visit all my projects at work here!](http://yoda.kean.edu/~rivejona "Main Page") <br/><br/>
 
 ## Hello!
 
