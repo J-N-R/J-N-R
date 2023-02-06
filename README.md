@@ -5,12 +5,20 @@ Note : This page is still under development! I am working on migrating my existi
 ## Hello!
 
 
-#### My Name is Jonathan Rivera, and I'm a fourth year cyber security student from Kean University.
+#### My Name is Jonathan Rivera, and I'm a cyber security graduate from Kean University.
 
 This GitHub's purpose is to host all of my current and previous project files and to help me learn and work more closely with GitHub, and others' codes. <br/><br/>
 
+## Recent work
+After graduating from school and getting a job, I've since been working on fun side projects relating to modding the game Sonic Adventure 2. This includes creating fully fledged UI apps as well as C++ libraries and scripts to modify game code directly. These projects are...
 
-## Recent Projects:
+  - [My Level Mod](https://github.com/J-N-R/My-Level-Mod), a suite of C++ libraries and scripts to help modders to import custom assets into the game.
+
+  - Modern Set Editor (wip, currently private), an ElectronJS app powered by Angular that allows users to edit the 'SET' binary files found in the game. 
+
+## Other projects:
+
+  - BillChop! A full stack web app that uses AI to read a photo of a reciept, and allow you to easily split items on the bill with your friends.
 
   - Is Covid Near Me? A simple full stack web app that allows users to input their state and county and get accurate and understandable results instantly.
 
