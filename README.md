@@ -18,7 +18,7 @@ After graduating from school and getting a job, I've since been working on fun s
 
 ## Other projects:
 
-  - BillChop! A full stack web app that uses AI to read a photo of a reciept, and allow you to easily split items on the bill with your friends.
+  - BillChop! A full stack web app that uses AI to read a photo of a reciept, and allows you to easily split items on the bill with your friends. Includes shared, live sessions where your friends can choose items on the bill to pay for, which you can see happen on your device in real time.
 
   - Is Covid Near Me? A simple full stack web app that allows users to input their state and county and get accurate and understandable results instantly.
 
