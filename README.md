@@ -1,20 +1,20 @@
 Note : This page is still under development! I am working on migrating my existing code over to here.
 
-### [Come visit all my projects at work here!](http://thejonathanrivera.com "Main Page") <br/><br/>
+### [Come visit my projects in action here!](http://thejonathanrivera.com "Main Page") <br/><br/>
 
 ## Hello!
+**My Name is Jonathan Rivera, and I'm a full-stack developer from Kean University.**
 
-
-#### My Name is Jonathan Rivera, and I'm a cyber security graduate from Kean University.
+I enjoy using programming to help inform and upbuild underserved communites, and I love building tools that help can people. 
 
 This GitHub's purpose is to host all of my current and previous project files and to help me learn and work more closely with GitHub, and others' codes. <br/><br/>
 
 ## Recent work
-After graduating from school and getting a job, I've since been working on fun side projects relating to modding the game Sonic Adventure 2. This includes creating fully fledged UI apps as well as C++ libraries and scripts to modify game code directly. These projects are...
+While I have been a bit busy since getting my first full-time job, I still work on fun side projects from time to time. My most recent projects relate to modding one of my favorite games, Sonic Adventure 2. These tools were created to help others create their first video game mod and to introduce newcomers to programming for Sonic Adventure 2 in C++. These projects are...
+
+  - [Modern Set Editor](https://github.com/J-N-R/Set-File-Editor), an Angular/ElectronJS-powered desktop app that allows users to edit the 'SET' file format commonly used in the game. 
 
   - [My Level Mod](https://github.com/J-N-R/My-Level-Mod), a suite of C++ libraries and scripts to help modders to import custom assets into the game.
-
-  - Modern Set Editor (wip, currently private), an ElectronJS app powered by Angular that allows users to edit the 'SET' binary files found in the game. 
 
 ## Other projects:
 
